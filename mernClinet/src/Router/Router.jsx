@@ -8,7 +8,8 @@ import {createBrowserRouter}from "react-router-dom";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <div>thi is the ethiopia book store website
+    </div>,
   },
 ]);
 
